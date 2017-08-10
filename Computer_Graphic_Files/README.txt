@@ -1,4 +1,4 @@
-CPS511-Computer Graphic Assignment 2
+CPS511-Computer Graphic Final Project
 
 
 The assignment has been running on Xcode 6 in Mac.
