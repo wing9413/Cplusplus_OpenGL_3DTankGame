@@ -1,7 +1,7 @@
 CPS511-Computer Graphic Final Project
 
 
-The assignment has been running on Xcode 6 in Mac.
+The assignment has been running on Xcode 6 on Mac.
 Therefore four header file have changed.
 #include <iostream>             ->		#include <windows.h>
 #include <OpenGL/gl.h>		->		#include <gl/gl.h>
